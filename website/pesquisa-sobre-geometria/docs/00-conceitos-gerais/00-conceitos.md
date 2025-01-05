@@ -55,3 +55,8 @@
             - $ \ctg \alpha = \frac{1}{\tg \alpha }$
             - $ \ctg \beta = \frac{1}{\tg \beta }$
         
+- Lei dos Senos
+    - ![](img/lei-seno-cosseno.png)
+        - $ \frac{\text{a}}{\sin \^{A}} = \frac{\text{b}}{\sin \^{B}} = \frac{\text{c}}{\sin \^{C}} $
+
+- Lei dos Cossenos
