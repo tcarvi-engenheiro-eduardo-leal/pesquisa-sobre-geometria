@@ -53,4 +53,5 @@
             - $ \cosec \alpha = \frac{1}{\sin \alpha }$
             - $ \cosec \beta = \frac{1}{\sin \beta }$
             - $ \ctg \alpha = \frac{1}{\tg \alpha }$
-            - $ \ctg \beta = \frac{1}{\tg \beta }$    
+            - $ \ctg \beta = \frac{1}{\tg \beta }$
+        
