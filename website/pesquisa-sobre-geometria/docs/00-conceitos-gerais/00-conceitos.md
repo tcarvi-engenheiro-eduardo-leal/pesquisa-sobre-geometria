@@ -47,3 +47,10 @@
             - $ \cos \beta = \frac{\text{cateto adjacente a}}{\text{hipotenusa c}}$
             - $ \tg \alpha = \frac{\text{cateto oposto a}}{\text{cateto adjacente b}}$
             - $ \tg \beta = \frac{\text{cateto oposto b}}{\text{cateto adjacente a}}$
+        - Inverso das relações:
+            - $ \sec \alpha = \frac{1}{\cos \alpha }$
+            - $ \sec \beta = \frac{1}{\cos \beta }$
+            - $ \cosec \alpha = \frac{1}{\sin \alpha }$
+            - $ \cosec \beta = \frac{1}{\sin \beta }$
+            - $ \ctg \alpha = \frac{1}{\tg \alpha }$
+            - $ \ctg \beta = \frac{1}{\tg \beta }$    
