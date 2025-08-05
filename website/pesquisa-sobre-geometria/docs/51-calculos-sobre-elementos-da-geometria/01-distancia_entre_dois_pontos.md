@@ -1,4 +1,4 @@
-# Distâncias
+# Distância Entre Dois Pontos
 
 ## Distância entre dois pontos, no espaço bidimensional
 - $ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} $
