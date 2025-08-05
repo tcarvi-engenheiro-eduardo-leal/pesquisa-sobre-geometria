@@ -1,5 +1,8 @@
 # Conceitos
 
+- Perceber, por meio do estudo da Geometria Analítica, a proximidade entre o real e o abstrato
+e a interligação entre a Geometria e a Álgebra.
+
 ## Teorema de Tales
 - Se um feixe de retas paralelas é cortado por duas transversais, então dois segmentos de uma delas são proporcionais aos segmentos correpondentes da outra.
 

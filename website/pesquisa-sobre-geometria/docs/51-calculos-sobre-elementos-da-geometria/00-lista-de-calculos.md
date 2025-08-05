@@ -1,6 +1,23 @@
 # Lista de Cálculos
+- Identificação de Colinearidade entre vetores
+- Identificação de Coplanaridade entre vetores
+- Operações Vetoriais
 - Combinação Linear
 - Produto Escalar
 - Produto Vetorial
 - Produto Misto
-- Distâncias
+- Distância entre dois pontos
+- Distância entre duas retas
+- Distância entre dois planos
+- Distância entre ponto e reta
+- Distância entre ponto e plano
+- Distância entre reta e plano
+- Posição entre duas retas
+- Posição entre reta e plano
+- Identificar coordenadas polares usadas na construção de figuras geométricas.
+- Relações entre sistemas de coordenadas cartesianas e polares
+- Equação da Reta
+- Equacão da Reta em coordenada polar
+- Equação da Circunferência
+- Equação da Circunferência em coordenada polar
+- Esboço de curvas no plano polar

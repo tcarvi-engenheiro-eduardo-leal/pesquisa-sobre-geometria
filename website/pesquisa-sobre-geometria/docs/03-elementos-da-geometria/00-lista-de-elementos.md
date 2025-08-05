@@ -1,6 +1,40 @@
 # Lista de Elementos
 - Vetores
-- Retas
-- Planos
-- Distâncias
+- Espaço Vetorial
+- Subespaço Vetorial
+- Bases de um espaço vetorial
+- Reta
+    - Segmento de Reta
+- Plano
+- Plano Cartesiano
+    - Eixo das abcissas (x)
+    - Eixo das ordenadas (y)
+- Plano Tridimensional:
+    - Eixo x (indo para olho do visualizador)
+    - Eixo y (indo para sentido direito, pelo olhar do visualizador)
+    - Eixo z (indo para cima, pelo olhar do visualizador)
 - Cônicas
+    - Curvas obtidas pela interseção de um plano com um cone de base circular.
+    - Exemplos:
+        - Circunferência
+        - Elipse
+        - Parábola
+        - Hiperbole
+- Esfera
+- Mediana de um triângulo
+    - Em geometria, a mediana de um triângulo é o segmento de reta que une um vértice ao ponto médio do lado oposto.
+- Baricentro:
+    - Coordenada do encontro das medianas de um triângulo.
+    - Este ponto é também o centro de gravidade do triângulo. 
+    - O baricentro divide cada mediana em duas partes, sendo que a parte que vai do vértice ao baricentro tem o dobro do comprimento da parte que vai do baricentro ao ponto médio do lado oposto. 
+    - As três medianas dividem o triângulo em seis triângulos menores com áreas iguais.
+    - $ G = \left( \frac{x_A + x_B + x_C}{3}, \frac{y_A + y_B + y_C}{3} \right) $
+        - Sendo:
+            - $ G $ =: O centro de gravidade ou baricentro do triângulo ABC
+            - $ x_A $ =: Posição, no eixo x, do vértice $ A $
+            - $ x_B $ =: Posição, no eixo x, do vértice $ B $
+            - $ x_C $ =: Posição, no eixo x, do vértice $ C $
+            - $ y_A $ =: Posição, no eixo y, do vértice $ A $
+            - $ y_B $ =: Posição, no eixo y, do vértice $ B $
+            - $ y_C $ =: Posição, no eixo y, do vértice $ C $
+
