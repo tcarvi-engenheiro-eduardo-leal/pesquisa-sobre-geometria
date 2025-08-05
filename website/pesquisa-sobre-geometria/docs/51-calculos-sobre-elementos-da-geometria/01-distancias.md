@@ -87,5 +87,5 @@
         - Os objetos podem ser matemáticos, físicos, químicos ou mesmo objetos representativos de estruturas sociais. 
         - Os objetos considerados nesta fórmula podem ter 5, 6, ou centenas/milhares de coordenadas diferenciadoras dos objetos.
         - Mas o sistema pode ficar muito complexo se usamos milhares de coordenadas e se tentamos normalizar todas elas e ainda fornecer peso ponderado para cada uma. Entretanto, esta fórmula pode ser muito útil para descrever e caracterizar a aproximação/distância entre objetos.
-        - Algorítmos podem ajudar para dar peso e para normalizar os valores das coordenadas.
-        - Além disso, sistema de AI podem ser usados para que se descubra, a partir da análise histórica, dentro dos dados que serão analisados, quais as coordenadas relevantes para descrever sistemas, e quais pesos ponderados devem ser usados. Pode-se prever o comportamenteo de sistemas complexos, a partir desta fórmula.
+        - Algoritmos podem ajudar para dar peso e para normalizar os valores das coordenadas.
+        - Além disso, sistema de AI podem ser usados para que se descubra, a partir da análise histórica, dentro dos dados estudados, quais as coordenadas relevantes para descrever o sistema, e quais pesos ponderados devem ser usados para diferenciar a importância das coordenadas. Pode-se prever o comportamento de sistemas complexos, a partir desta fórmula. Basta que se debruce sobre os dados e se faça perguntas relevantes e criativas sobre o relacionamento entre os diferentes objetos do espaço estudado.
