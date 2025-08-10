@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Calcule valores de propriedades dos elementos da geometria.
+        Cálculos e aplicações dos elementos da geometria.
       </>
     ),
   },
