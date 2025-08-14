@@ -11,9 +11,9 @@
 - Se um feixe de retas paralelas é cortado por duas transversais, então dois segmentos de uma delas são proporcionais aos segmentos correpondentes da outra.
 
 ## Semelhança de Triângulos
-- AA  (angulos dos dois triângulos iguais)
-- LLL (lados dos dois triângulos com valores proporcionais)
-- LAL (lados dos dois triângulos com valores proporcionais)
+- AA  (se dois ângulos dos dois triângulos são iguais)
+- LLL (se os 3 lados dos dois triângulos possuem valores proporcionais)
+- LAL (se dois lados dos dois triângulos, com um mesmo ângulo entre eles, possuem valores proporcionais)
 
 ## Teorema de Pitágoras
 - Em um triângulo retângulo, o quadrado da hipotenusa é igual à soma do quadrado do primeiro cateto com o quadrado do segundo cateto.
@@ -32,7 +32,6 @@
         - $ {c}^2 = {a} . {m} $
         - $ {b}^2 = {h}^2 + {n}^2 $
         - $ {b}^2 = {a} . {n} $
-        - $ {c}^2 = {h}^2 + {m}^2 $
         - $ {a} . {h} = {b} . {c} $
         - $ {a} = {m} + {n} $
     - Sendo:
