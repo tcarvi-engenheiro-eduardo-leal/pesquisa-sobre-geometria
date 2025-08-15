@@ -41,12 +41,12 @@
                 - $ w_1 $ =: Posição, no eixo w, do ponto $ P_1 $
         - Mas, o valor das coordenadas nos eixos x, y e z pertencem aos números reais.
         - Já o valor da cor pode pertencer apenas dentro do intervalo de 0 a 250.
-        - Posso dizer que estamos usando dados não normalizados. Que possuem medições percentuais diferentes, dentro dos valores possíveis de cada coordenada.
+        - Podemos dizer que estamos usando dados não normalizados. Que possuem medições percentuais diferentes, dentro dos valores possíveis de cada coordenada.
         - Então, podemos melhorar a fórmula da distância convertendo todos os números das coordenadas para existirem dentro do intervalo de 0 a 1.
         - Normalização de uma coordenada:
             - $ x_{\text{normalizado}} = \frac{x_{medido} - x_{\min}}{x_{\max} - x_{\min}} $
             - Com a normalização, responde-se a pergunta: Qual a porcentagem do valor medido dentro de todos os valores possíveis. A reposta é dada entre 0% e 100%. Perceba que aqui pode-se escolher um valor máximo e um valor mínimo. Ou seja, é necessário conhecer o dado para estas escolhas.
-            - Sobre o conhecimento do dado, pode-se também supor que o fato de um dado se localizar dentro de certo intervalo torna o dado mais representativo para o aumento da distância entre pontos, mas o dado se localizar dentro de outra dispersão, o dado passa a não ser tão representativo para o aumento da distância que se está calculando. Assim, a própria normalização pode ser modificada por um indicador interno de representatividade. Entre valores zero e um, o valor pode aumentar um pouco ou diminuir um pouco, devido esta escolha de representatividade. Mas não mudaremos aqui a representatividade interna do dado e desconsideraremos mudanças devido a representatividade.
+            - Sobre o conhecimento do dado, pode-se também supor que o fato de um dado se localizar dentro de certo intervalo torna o dado mais representativo para o aumento da distância entre pontos; mas o fato do dado se localizar dentro de outra dispersão torna o dado menos representativo para o aumento da distância que se está calculando. Assim, a própria normalização pode ser modificada por um indicador interno de representatividade. Entre valores zero e um, o valor pode aumentar um pouco ou diminuir um pouco, devido esta escolha de representatividade. Mas não mudaremos aqui a representatividade interna do dado e desconsideraremos mudanças devido a representatividade.
     - Então, para se ter uma medida de distância entre os dois objetos, cujas coordenada estão normalizadas, calculamos:
         - $ d = \sqrt{({x_2}_{normalizado} - {x_1}_{normalizado})^2 + ({y_2}_{normalizado} - {y_1}_{normalizado})^2 + ({z_2}_{normalizado} - {z_1}_{normalizado})^2 + ({w_2}_{normalizado} - {w_1}_{normalizado})^2 } $
             - Sendo:
