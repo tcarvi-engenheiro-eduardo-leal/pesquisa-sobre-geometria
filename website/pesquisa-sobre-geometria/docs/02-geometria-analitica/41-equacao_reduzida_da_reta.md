@@ -1,0 +1,1 @@
+# Equação Reduzida da Reta

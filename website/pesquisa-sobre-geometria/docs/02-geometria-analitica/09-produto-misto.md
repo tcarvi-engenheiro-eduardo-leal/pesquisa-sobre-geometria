@@ -1,4 +1,5 @@
 # Produto Misto
+
 - O produto misto é uma operação que combina três vetores do espaço tridimensional (ℝ³) e resulta em um escalar (um número real).
 - Ele envolve dois passos:
     - Produto vetorial entre dois vetores.

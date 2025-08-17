@@ -1,5 +1,6 @@
 # Vetor
 - Em **Geometria Analítica**, um vetor é um objeto matemático que possui **magnitude** (comprimento), **direção** e **sentido**. 
+- Vetores que possuem a mesma **magnitude** (comprimento), mesma **direção** e mesmo **sentido**, ao mesmo tempo, são denominados de **equipolentes**.
 
 ## Vetor (Definição na Algebra)
 - Seja $ {\R}^n $ o espaço euclidiano n-dimensional. 
@@ -33,18 +34,21 @@ $$
         - Ou seja, têm as mesmas componentes.
             - Isso significa que vetores **não têm posição fixa**; apenas direção, sentido e magnitude importam.
 
-## Versor
-- Um vetor com magnitude igual a 1 unidade de medida.
-- Exemplos:
-    - Versor $ \vec{i} = (1, 0, 0) $
-    - Versor $ \vec{j} = (0, 1, 0) $
-    - Versor $ \vec{k} = (0, 0, 1) $
-- Versor gerado a partir de um vetor qualquer $ \vec{AB} $:
-    - Versor = $ \frac{ \vec{AB}}{|\vec{AB}|} $
-    - Versor = $ ( \frac{X_B - X_A}{|\vec{AB}|}, \frac{Y_B - Y_A}{|\vec{AB}|}) $
-
 ## Inclinação de Um Vetor
 - Tangente do ângulo do vetor, considerndo o ângulo como com abertura, para o lado direito ou para cima, do cruzamento com o eixo x.
 - Inclinação = Tangente do ângulo = $ \frac{ Y_B - Y_A }{ X_B - X_A } $
 
- 
+## Decomposição de um vetor no plano
+- Definição: Dados 2 vetores não colineares, $ \vec{v_1} $ e $ \vec{v_2} $, qualquer vetor $ \vec{v} $ pode ser decomposto por composição linear de $ \vec{v_1} $ e $ \vec{v_2} $.  
+- Neste caso, temos:
+    - $ \vec{v} = {\alpha}_1 \vec{v_1} + {\alpha}_2 \vec{v_2} $
+- Nomenclatura:
+    - Base da decomposição do vetor $ \vec{v} $:
+        - $ \{ \vec{v_1} , \vec{v_2} \}$
+    - Coordenadas da decomposição do vetor $ \vec{v} $:
+        - $ \{ {\alpha}_1, {\alpha}_2 \} $
+- Aplicação:
+    - Análises de forças da física
+    - Transformações Geométricas
+
+

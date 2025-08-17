@@ -1,0 +1,1 @@
+# Equação Vetorial da Reta

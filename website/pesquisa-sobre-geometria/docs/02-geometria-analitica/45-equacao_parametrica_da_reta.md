@@ -1,0 +1,1 @@
+# Equação Paramétrica da Reta

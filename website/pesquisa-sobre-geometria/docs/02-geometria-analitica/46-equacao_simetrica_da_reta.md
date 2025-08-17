@@ -1,0 +1,1 @@
+# Equação Simétrica da Reta

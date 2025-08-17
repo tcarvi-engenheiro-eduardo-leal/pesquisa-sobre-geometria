@@ -1,0 +1,1 @@
+# Equação Geral da Reta

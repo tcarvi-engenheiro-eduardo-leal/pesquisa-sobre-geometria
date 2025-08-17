@@ -1,0 +1,35 @@
+# Baricentro do Triângulo
+- Ponto de Encontro das Medianas do Triângulo
+- No Espaço de $ {\R}^2 $:
+    - $ G = \lparen X_G , Y_G \rparen = \lparen \frac{X_{M1} + X_{M2} + X_{M3}}{3} , \frac{Y_{M1} + Y_{M2} + Y_{M3}}{3} \rparen $
+        - Sendo:
+            - **G** o ponto denominado por Baricentro.
+            - $ X_G $ A coordenada X do ponto Baricentro.
+            - $ Y_G $ A coordenada Y do ponto Baricentro.
+            - $ X_{M1} $ A coordenada X do ponto médio do lado 1 do triângulo.
+            - $ X_{M2} $ A coordenada X do ponto médio do lado 2 do triângulo.
+            - $ X_{M3} $ A coordenada X do ponto médio do lado 3 do triângulo.
+            - $ \frac{X_{M1} + X_{M2} + X_{M3}}{3} $ a média aritmética das coordenadas X dos pontos $M_1$, $M_2$ e $M_3$
+            - $ Y_{M1} $ A coordenada Y do ponto médio do lado 1 do triângulo.
+            - $ Y_{M1} $ A coordenada Y do ponto médio do lado 2 do triângulo.
+            - $ Y_{M1} $ A coordendaa Y do ponto médio do lado 3 do triângulo.
+            - $ \frac{Y_{M1} + Y_{M2} + Y_{M3}}{3} $ a média aritmética das coordenadas Y dos pontos $M_1$, $M_2$ e $M_3$
+- No Espaço de $ {\R}^3 $:
+    - $ G = \lparen X_G , Y_G, Z_G \rparen = \lparen \frac{X_{M1} + X_{M2} + X_{M3}}{3} , \frac{Y_{M1} + Y_{M2} + Y_{M3}}{3}, \frac{Z_{M1} + Z_{M2} + Z_{M3}}{3}  \rparen $
+        - Sendo:
+            - **G** o ponto denominado por Baricentro.
+            - $ X_G $ A coordenada X do ponto Baricentro.
+            - $ Y_G $ A coordenada Y do ponto Baricentro.
+            - $ Z_G $ A coordenada Z do ponto Baricentro.
+            - $ X_{M1} $ A coordenada X do ponto médio do lado 1 do triângulo.
+            - $ X_{M2} $ A coordenada X do ponto médio do lado 2 do triângulo.
+            - $ X_{M3} $ A coordenada X do ponto médio do lado 3 do triângulo.
+            - $ \frac{X_{M1} + X_{M2} + X_{M3}}{3} $ a média aritmética das coordenadas X dos pontos $M_1$, $M_2$ e $M_3$
+            - $ Y_{M1} $ A coordenada Y do ponto médio do lado 1 do triângulo.
+            - $ Y_{M2} $ A coordenada Y do ponto médio do lado 2 do triângulo.
+            - $ Y_{M3} $ A coordenada Y do ponto médio do lado 3 do triângulo.
+            - $ \frac{Y_{M1} + Y_{M2} + Y_{M3}}{3} $ a média aritmética das coordenadas Y dos pontos $M_1$, $M_2$ e $M_3$
+            - $ Z_{M1} $ A coordenada Z do ponto médio do lado 1 do triângulo.
+            - $ Z_{M2} $ A coordenada Z do ponto médio do lado 2 do triângulo.
+            - $ Z_{M3} $ A coordenada Z do ponto médio do lado 3 do triângulo.
+            - $ \frac{Z_{M1} + Z_{M2} + Z_{M3}}{3} $ a média aritmética das coordenadas Z dos pontos $M_1$, $M_2$ e $M_3$

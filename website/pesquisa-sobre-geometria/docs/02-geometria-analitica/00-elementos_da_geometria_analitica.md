@@ -1,3 +1,45 @@
 # Elementos da Geometria Analítica
 
-- Vetor
+- Pontos
+    - Eixos e Coordenadas Geométricas
+        - Desenvolvido pelo matemático Fermat
+            - Par Ordenado de Coordenadas dos Eixos
+            - Eixo X (eixo das abscissas)
+            - Eixo Y (eixo das ordenadas)
+            - Eixo Z do Espaço Tridimensional 
+    - Relação entre Pontos
+        - Distância entre 2 pontos
+- Vetores
+    - Versor
+    - Espaço Vetorial
+    - Subespaço Vetorial
+    - Bases de um Espaço Vetorial
+    - Produto Escalar entre 2 Vetores
+    - Produto Vetorial entre 2 Vetores
+    - Produto Misto entre 3 vetores
+    - Autovalores
+    - Autovetores
+- Retas
+    - Equações das Retas
+        - Equação Reduzida da Reta
+        - Equação Ponto Inclinação da Reta
+        - Equação Geral da Reta
+        - Equação Vetorial da Reta
+        - Equação Paramétrica da Reta
+        - Equação Simétrica da Reta
+    - Relações entre Retas
+        - Ângulo entre Retas
+        - Interseção entre Retas
+        - Distância entre Retas
+- Planos
+    - Equações dos Planos
+    - Relações Entre Planos
+        - Distância entre Planos
+- Relação entre Elementos Diferentes da Geometria
+    - Relações entre Retas e Planos
+        - Distância entre Reta e Plano
+- Parábolas
+    - Parabolóides
+- Circunferências
+- Elipses
+- Hipérboles

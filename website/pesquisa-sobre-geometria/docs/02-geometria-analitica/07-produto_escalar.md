@@ -1,4 +1,5 @@
 # Produto Escalar
+
 ## Representação:
 - $ \Braket{ \vec{u}, \vec{v} } $
 - $ \vec{u} ⋅ \vec{v}$
