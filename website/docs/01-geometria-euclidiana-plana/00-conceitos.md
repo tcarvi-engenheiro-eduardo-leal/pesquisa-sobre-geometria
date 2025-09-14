@@ -2,6 +2,9 @@
 
 ## Elementos da Geometria Euclidiana Plana
 - Ponto
+    - Elemento geométrico que não tem dimensões, mas que existe em um dado espaço geométrico.
+    - Representado por uma das 26 letras do alfabeto latino moderno, na forma maiúscula:
+        - A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
 - Reta
 - Segmento de Reta
 - Plano
