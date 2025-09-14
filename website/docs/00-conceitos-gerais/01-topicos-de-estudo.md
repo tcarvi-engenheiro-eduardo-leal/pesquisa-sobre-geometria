@@ -2,29 +2,11 @@
 ## Hierarquia do estudo da Geometria:
 
 ### Tópicos de matemática fundamental
-- Geometria Euclidiana Plana
-    - Ponto
-    - Reta
-    - Plano
-    - Ángulo
-    - Triângulo
-    - Círculo
-    - Polígonos no Plano
-    - Postulados de Euclides
-- Geometria Espacial
-    - Elementos da Geometria no Espaco tridimensional
-    - Poliedros
-    - Esferas
-    - Cilindros
-    - Cones
-    - Volumes
+- Geometria Euclidiana (plana)
+- Geometria Espacial (dos sólidos)
 
 ### Tópicos iniciais de abstracão matemática
 - Trigonometria
-    - Relações entre ángulos e lados dos triângulos
-        - Seno
-        - Cosseno
-        - Tangente
 - Geometria Analítica
     - Coordenadas cartesianas
     - Coordenadas polares

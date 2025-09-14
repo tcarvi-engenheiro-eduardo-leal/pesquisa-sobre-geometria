@@ -1,3 +1,5 @@
+import Mermaid from '@theme/Mermaid';
+
 # Campo de Estudo da Geometria
 
 ## Estudo com o Suporte Interpretativo da Visualização
@@ -13,16 +15,56 @@
 ## Estudo com o Uso do Formalismo de Demonstrações Matemáticas
 - Deve-se perceber que a mente humana é incapaz de **perceber visualmente** ou mesmo de **perceber algebricamente** a representação de muitos tópicos da geometria.
 - Deve-se usar o **formalismo da demonstração matemática** para lidar com esta limitação do pensamento humano e para conhecer assertivamente formulações geométricas não intuitivas.
+    - Noções Intuitivas da Geometria
+        - ponto, reta, plano
+    - Axiomas
+    - Definições Introduzidas a partir dos axiomas
+    - Lema
+        - Resultados auxiliares de uma demostração que representam partes intermediárias que auxiliam o trabalho da demostração maior.
+    - Proposições
+        - Resultados menores de uma desmostração que representam proposiçoes não tão relevantes para a matemática quanto os teoremas.
+    - Teoremas da Geometria
+        - Resultados principais do trabalho de demostração
+    - Corolários da Geometria
+        - Consequências imediatas dos teoremas demostrados, sem a necessidade de refazer a demostração dos teoremas.
 
 ## Campo de Estudo
 - No campo mais geral do estudo da matemática, a geometria é utilizada como:
     - **Intuição Visual** para estudos relacionados aos elementos da geometria;
     - **Estrutura Algébrica** para tais estudos.
-- Pode-se perceber os seguinte assuntos mais gerais da matemática, que fazem uso da geometria:
-    - Algebra
-    - Análise/cálculo
-    - Topologia
-    - Teoria dos Números
-    - Matemática Discreta
-    - Teoria da Medida
-    - Teoria dos Grupos
+
+- Campos da Matemática podem ser aprimorados com a utilização da geometria:
+
+---  
+    
+<Mermaid
+  value={`graph TD;
+    B[Matemática Pura]
+    B --> B1[Álgebra]
+    B --> B2[Análise]
+    B --> B3[Geometria/Topologia]
+    B --> B4[Teoria dos Números]
+    B --> B5[Lógica]`}
+/>
+  
+---  
+    
+<Mermaid
+  value={`graph TD;
+    C[Matemática Aplicada]
+    C --> C1[Matemática Computacional]
+    C --> C2[Matemática Física]
+    C --> C3[Otimização]
+    C --> C4[Probabilidade e Estatística]
+    C --> C5[Matemática Discreta]`}
+/> 
+  
+---  
+    
+<Mermaid
+  value={`graph TD;
+    D[Matemática Interdisciplinar]
+    D --> D1[Matemática Biológica]
+    D --> D2[Matemática Financeira]
+    D --> D3[Ciência dos Dados]`}
+/> 

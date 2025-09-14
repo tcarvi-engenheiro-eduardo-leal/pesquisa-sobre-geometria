@@ -1,0 +1,28 @@
+# Ângulo
+
+- Área interna entre dois segmentos que formam o ângulo.
+- Medido em graus
+- Angulos múltiplos de 45º:
+    - 0º
+    - 45º
+    - 90º
+    - 135º
+    - 180º
+    - 225º
+    - 270º
+    - 315º
+    - 360º
+- Angulos múltiplos de 30º:
+    - 0º
+    - 30º
+    - 60º
+    - 90º
+    - 120º
+    - 150º
+    - 180º
+    - 210º
+    - 240º
+    - 270º
+    - 300º
+    - 330º
+    - 360º

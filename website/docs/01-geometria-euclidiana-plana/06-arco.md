@@ -1,0 +1,28 @@
+# Arco
+- Conjunto de pontos de uma circunferência, compreendidos entre dois pontos extremos.
+- Medido em radianos
+- 1 radiano é igual ao comprimento de um raio da circunferência.
+- Arcos múltiplos de π/4 rad
+    - 0 rad = 0º
+    - π/4 rad = 45º
+    - 2 π/4 rad = 90º
+    - 3 π/4 rad = 135º
+    - 4 π/4 rad = 180º
+    - 5 π/4 rad = 225º
+    - 6 π/4 rad = 270º
+    - 7 π/4 rad = 315º
+    - 8 π/4 rad = 360º
+- Arcos Múltiplos de π/6 rad
+    - 0 rad = 0º
+    - π/6 rad = 30º
+    - 2 π/6 rad = 60º
+    - 3 π/6 rad = 90º
+    - 4 π/6 rad = 120º
+    - 5 π/6 rad = 150º
+    - 6 π/6 rad = 180º
+    - 7 π/6 rad = 210º
+    - 8 π/6 rad = 240º
+    - 9 π/6 rad = 270º
+    - 10 π/6 rad = 300º
+    - 11 π/6 rad = 330º
+    - 12 π/6 rad = 360º
